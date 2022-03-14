@@ -21,13 +21,7 @@ function shout(string){
 
         } if (string === "Let's have dinner together!") {
             return "I would love to!"
-
-    
-
         } 
-
 
         return 'I can\'t hear you!'
     }
-   
-    
